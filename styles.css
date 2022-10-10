@@ -23,6 +23,8 @@ img {
     height: auto;
 }
 
+ul {list-style: none;}
+
 h1 {
     color: #ff8800;
     font-size: 40px;
