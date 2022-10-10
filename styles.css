@@ -1,0 +1,30 @@
+body {
+    font-family: 'Henny Penny', cursive;
+    background-color: rgb(31, 3, 31);
+    color: white;
+    margin: 16px;
+    text-align: center;
+}
+
+#halloween-candies-image {
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.heading-cooler {
+    color: #63C328;
+}
+
+a:visited { color: #63C328; text-decoration: none; }
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    color: #ff8800;
+    font-size: 40px;
+    text-align: center;
+}
