@@ -1,32 +1,38 @@
+
 body {
     font-family: 'Henny Penny', cursive;
-    background-color: rgb(31, 3, 31);
+    background-color: rgb(21, 9, 21);
     color: white;
     margin: 16px;
     text-align: center;
 }
 
+.card-all-recipes {
+    padding: 1rem;
+    margin: 0 auto;
+    background-color: rgb(105, 44, 105);
+}
+
 #halloween-candies-image {
-    width: 600px;
+    width: 300px;
     height: auto;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .heading-cooler {
     color: #63C328;
+    font-size: 40px;
 }
 
+a {color: #63C328;}
 a:visited { color: #63C328; text-decoration: none; }
 
-img {
-    width: 300px;
+.recipe-image {
+    width: 50%;
     height: auto;
 }
 
-ul {list-style: none;}
-
 h1 {
     color: #ff8800;
-    font-size: 40px;
-    text-align: center;
+    font-size: 36px;
 }
